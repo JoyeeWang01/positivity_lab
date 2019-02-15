@@ -6,9 +6,8 @@
 //   https://stackoverflow.com/questions/13785466/default-center-on-united-states
 //   https://stackoverflow.com/questions/36909380/why-use-defer-with-google-maps-javascript
 
-
 // Points.
-var posArray = new Array(), negArray=new MVCArray();
+var posArray = new Array(), negArray=new Array();
 
 // Gradients.
 var posGradient, negGradient;
